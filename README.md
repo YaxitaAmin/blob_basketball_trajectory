@@ -105,9 +105,8 @@ python main.py --input gym_shot.mp4 --output tracked.mp4 --show --debug --no-bg-
 ---
 
 ## AI Usage Disclosure
-
-See [`AI_USAGE.md`](AI_USAGE.md) for full disclosure of AI-assisted components per course policy.
-
+---
+Claude (Anthropic) was used for debugging assistance and code formatting only. All function logic, algorithm design, pipeline architecture, and parameter tuning decisions were conceived and implemented by Yaxita Amin.
 ---
 
 ## Files Included
