@@ -111,6 +111,8 @@ python main.py --input gym_shot.mp4 --output tracked.mp4 --show --debug --no-bg-
 Claude (Anthropic) was used for debugging assistance and code formatting only. All function logic, algorithm design, pipeline architecture, and parameter tuning decisions were conceived and implemented by Yaxita Amin.
 ---
 
+input video credits - https://www.youtube.com/watch?v=Ph6-w-LCpYo&t=298s
+
 ## Files Included
 
 - `/src` — All Python source files
