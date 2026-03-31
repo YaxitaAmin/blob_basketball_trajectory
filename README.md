@@ -1,6 +1,8 @@
 # 🏀 Basketball Shot Trajectory Tracker
 **MSML640 Computer Vision Project | Yaxita Amin | Spring 2026**
 
+videos folder for output and input (as all the files were large in size) - https://drive.google.com/drive/folders/1UhUOshluJOTwwH8qg7PIoH0eUC9JN3wN?usp=sharing
+
 A classical computer vision application that tracks a basketball's flight path in real-world gym footage, visualizes the arc trajectory, and computes shot metrics like release angle and arc height — using **zero deep learning**.
 
 ---
